@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alex88kr
-- 👀 I’m interested in mechanical engineering, programming, kickboxing, and showing my six-pack
+- 👀 I’m interested in mechanical engineering, programming, kickboxing
 - 🌱 I’m currently learning a lot of stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
