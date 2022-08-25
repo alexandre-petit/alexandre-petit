@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alex88kr
-- 👀 I’m interested in mechanical engineering, programming, kickboxing
-- 🌱 I’m currently learning a lot of stuff
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in mechanical engineering, and programming
+- 🌱 I’m currently focusing on data science, machine learning, and artificial intelligence
+
 
 <!---
 alex88kr/alex88kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
