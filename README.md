@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @alex88kr
-- 👀 I’m interested in mechanical engineering, and programming
-- 🌱 I’m currently focusing on data science, machine learning, and artificial intelligence
+- 👋 Hi, my name is Alex
+- 👀 I’ve spent most of my coding time using Python, but I always love to play with another language
+- 🌱 I’m currently focusing on data science, and machine learning
+- The most interesting project are not in public. Send me a message if you would like to see them
 
 I've been active on kaggle for a while, and I've obtain the following achievements
 
