@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Alex
-- 👀 I’ve spent most of my coding time using Python, but I always love to play with another language
+- 👋 Welcome to my GitHub page
+- 👀 I’ve spent most of my coding time using Python, but I always love to discover other languages
 - 🌱 I’m currently focusing on data science, and machine learning
 - The most interesting projects are not publicly visible. [Send me a message on LinkedIn](https://www.linkedin.com/in/alexandre-petit-24a87a219) if you would like to see them :)
 
