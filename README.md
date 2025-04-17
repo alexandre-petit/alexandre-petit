@@ -1,7 +1,14 @@
-- 👋 Welcome to my GitHub page
-- 👀 I’ve spent most of my coding time using Python, but I always love to discover other languages
-- 🌱 I’m currently focusing on data science, and machine learning
-- The most interesting projects are not publicly visible. [Send me a message on LinkedIn](https://www.linkedin.com/in/alexandre-petit-24a87a219) if you would like to see them :)
+- 👋 Hi , you are visiting Alexandre's GitHub
+- 👀 You can find multiple data science projects focusing on specific goals
+
+Banking
+- Improving the evaluation of a credit rating model to reduce financial loss
+
+Energy
+- Benchmarking the energy consumption of new building based on their structure
+- Improving the forecast of solar panels energy production
+
+If you need to contact me, [Please send me a message on LinkedIn](https://www.linkedin.com/in/alexandre-petit-24a87a219)
 
 <!---
 I've been active on kaggle for a while, and obtained the following achievements
