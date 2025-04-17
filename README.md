@@ -2,15 +2,15 @@
 - 👀 You can find multiple data science projects focusing on specific goals
 
 ## Banking
-- Improving the evaluation of a credit rating model to reduce financial loss
+- [Improving the evaluation of a credit rating model to reduce financial loss](https://github.com/alexandre-petit/credit-score)
 
 ## Energy
 - Benchmarking the energy consumption of new buildingz based on their features
 - Improving the forecast of solar panels energy production
 
 ## Text classification
-- Classifying e-commerce products with BERT and Deep Learning to analyse their decription
-- Cost/Benefit of LLMs to classify text
+- [Classifying e-commerce products with BERT and Deep Learning to analyse their decription](https://github.com/alexandre-petit/text-and-image-classification)
+- [Cost/Benefit of LLMs to classify text](https://github.com/alexandre-petit/Cost_benefit_of_LLMs)
 
 And many more updated soon....
 
