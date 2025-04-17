@@ -1,12 +1,16 @@
 - 👋 Hi , you are visiting Alexandre's GitHub
 - 👀 You can find multiple data science projects focusing on specific goals
 
-Banking
+## Banking
 - Improving the evaluation of a credit rating model to reduce financial loss
 
-Energy
+## Energy
 - Benchmarking the energy consumption of new buildingz based on their features
 - Improving the forecast of solar panels energy production
+
+## Text classification
+- Classifying e-commerce products with BERT and Deep Learning to analyse their decription
+- Cost/Benefit of LLMs to classify text
 
 And many more updated soon....
 
