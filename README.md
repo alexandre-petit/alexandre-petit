@@ -5,8 +5,10 @@ Banking
 - Improving the evaluation of a credit rating model to reduce financial loss
 
 Energy
-- Benchmarking the energy consumption of new building based on their structure
+- Benchmarking the energy consumption of new buildingz based on their features
 - Improving the forecast of solar panels energy production
+
+And many more updated soon....
 
 If you need to contact me, [Please send me a message on LinkedIn](https://www.linkedin.com/in/alexandre-petit-24a87a219)
 
