@@ -12,6 +12,9 @@
 - [Classifying e-commerce products with BERT and Deep Learning to analyse their decription](https://github.com/alexandre-petit/text-and-image-classification)
 - [Cost/Benefit of LLMs to classify text](https://github.com/alexandre-petit/Cost_benefit_of_LLMs)
 
+## Generative AI
+- [Voice generation from text with ElevenLabs API](https://github.com/alexandre-petit/Voice-Generation)
+
 And many more updated soon....
 
 If you need to contact me, [Please send me a message on LinkedIn](https://www.linkedin.com/in/alexandre-petit-24a87a219)
