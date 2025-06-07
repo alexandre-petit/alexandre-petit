@@ -6,7 +6,7 @@
 
 ## Energy
 - Benchmarking the energy consumption of new buildings based on their features
-- Improving the forecast of solar panels energy production
+- [Improving the forecast of solar panels energy production](https://github.com/alexandre-petit/enefit-solar-energy)
 
 ## Text classification
 - [Classifying e-commerce products with BERT and Deep Learning to analyse their decription](https://github.com/alexandre-petit/text-and-image-classification)
