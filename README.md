@@ -5,7 +5,7 @@
 - [Improving the evaluation of a credit rating model to reduce financial loss](https://github.com/alexandre-petit/credit-score)
 
 ## Energy
-- Benchmarking the energy consumption of new buildings based on their features
+- [Benchmarking the energy consumption of new buildings based on their features](https://github.com/alexandre-petit/seattle-energy)
 - [Improving the forecast of solar panels energy production](https://github.com/alexandre-petit/enefit-solar-energy)
 
 ## Text classification
